@@ -2,10 +2,10 @@
 
 \documentclass[12pt]{lecture}
 
-\setsubject{Subject title}
-\setdate{Date}
-\setlecture{1}
-\setheadline{Lecture subject}
+\setsubject{Subject title} 
+\setdate{Date} % Date, whatever format you'd like
+\setlecture{1} % must be a digit
+\setheadline{Lecture subject} % optinonal
 
 \begin{document}
 
